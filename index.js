@@ -3,9 +3,9 @@
  */
 
 import {AppRegistry} from 'react-native';
-import HelloWorld from './HelloWorld';
+import ButtonBasics from './ButtonBasics';
 import {name as appName} from './app.json';
 
 
 
-AppRegistry.registerComponent(appName, () => HelloWorld);
+AppRegistry.registerComponent(appName, () => ButtonBasics);

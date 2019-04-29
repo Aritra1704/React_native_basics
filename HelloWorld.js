@@ -1,5 +1,6 @@
 //Reference Docs:
 //https://facebook.github.io/react-native/docs/props
+//How to execute 'react-native run-android'
 
 import React,{Component} from 'react'
 import { AppRegistry, StyleSheet, Image, Text, View } from 'react-native';

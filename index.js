@@ -3,9 +3,9 @@
  */
 
 import {AppRegistry} from 'react-native';
-import ScrollviewSample from './ScrollviewSample';
+import HelloWorld from './HelloWorld';
 import {name as appName} from './app.json';
 
 
 
-AppRegistry.registerComponent(appName, () => ScrollviewSample);
+AppRegistry.registerComponent(appName, () => HelloWorld);
